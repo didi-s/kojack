@@ -5,5 +5,6 @@
 	<classpathentry kind="con" path="at.bestsolution.efxclipse.tooling.jdt.core.JAVAFX_CONTAINER"/>
 	<classpathentry kind="lib" path="build/build/libs/schudt-javafx-datepicker-0.0.2.jar"/>
 	<classpathentry kind="lib" path="build/build/libs/extfx-0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sven.Haese.A9194969/WS1314/Praktikum/stanford-ner-2013-06-20/stanford-ner-2013-06-20.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
