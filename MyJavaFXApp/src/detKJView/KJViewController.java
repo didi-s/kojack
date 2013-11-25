@@ -44,7 +44,7 @@ public class KJViewController {
 	
 	@FXML
 	protected <pStartDatum> void handleSubmitButtonAction(ActionEvent event) {
-		pStartDatum.setText("01.01.2000");
+		pStartDatum.setText("01.01.2002");
 	}
 
 	@FXML
